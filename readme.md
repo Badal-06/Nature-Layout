@@ -49,6 +49,12 @@ Nature-Layout/
 
 ---
 
+## 📸 Preview
+
+![Nature Layout Preview](./Nature.png)
+
+---
+
 ## 🌐 Live Demo
 
 Check out the live version of this project here:  
@@ -80,3 +86,13 @@ Check out the live version of this project here:
 
 - GitHub: [Badal-06](https://github.com/Badal-06) 
 - Repo Link: [Nature Layout](https://github.com/Badal-06/Nature-Layout)
+
+---
+
+<div align="center">
+
+### ⭐ If you find this repository helpful, please consider giving it a star! ⭐
+
+**Happy Coding!** 🚀
+
+</div>
